@@ -15,6 +15,8 @@ print( total)
 
 
 
+meuVetor= str[3];
+
 
 
 
