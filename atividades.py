@@ -15,7 +15,9 @@ print( total)
 
 
 
-meuVetor= str[3];
+meuVetor= str[3[34]];
+
+
 
 
 
